@@ -1,0 +1,143 @@
+2018-07-11T01:22:51.714Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-11T01:22:51.714Z - normal: checking language setting...
+2018-07-11T01:22:51.714Z - normal: Language: zh
+2018-07-11T01:22:55.005Z - success: protocol editor-framework registered
+2018-07-11T01:22:55.005Z - success: protocol app registered
+2018-07-11T01:22:55.005Z - success: protocol theme registered
+2018-07-11T01:22:55.005Z - success: protocol packages registered
+2018-07-11T01:22:55.005Z - success: protocol unpack registerred
+2018-07-11T01:22:55.005Z - success: protocol disable-commonjs registerred
+2018-07-11T01:22:55.208Z - normal: connected!
+2018-07-11T01:22:55.208Z - normal: Check project C:\Users\Mashiro\Desktop\CocosCreatorProject\start_project
+2018-07-11T01:22:55.208Z - normal: Initializing Cocos2d
+2018-07-11T01:22:56.380Z - normal: Initializing Asset Database
+2018-07-11T01:22:56.426Z - success: protocol uuid registerred
+2018-07-11T01:22:56.426Z - success: protocol db registerred
+2018-07-11T01:22:56.426Z - success: protocol thumbnail registerred
+2018-07-11T01:22:56.426Z - normal: Loading editor/builtin packages
+2018-07-11T01:22:56.442Z - success: anysdk loaded
+2018-07-11T01:22:56.567Z - success: assets loaded
+2018-07-11T01:22:56.567Z - success: builder loaded
+2018-07-11T01:22:56.567Z - success: cocos-analytics loaded
+2018-07-11T01:22:56.567Z - success: console loaded
+2018-07-11T01:22:56.598Z - success: fb-instant-games loaded
+2018-07-11T01:22:56.614Z - success: hierarchy loaded
+2018-07-11T01:22:56.614Z - success: inspector loaded
+2018-07-11T01:22:56.614Z - success: keystore loaded
+2018-07-11T01:22:56.614Z - success: node-library loaded
+2018-07-11T01:22:56.614Z - success: package-asset loaded
+2018-07-11T01:22:56.614Z - success: preferences loaded
+2018-07-11T01:22:56.629Z - success: project-exporter loaded
+2018-07-11T01:22:56.629Z - success: project-importer loaded
+2018-07-11T01:22:56.645Z - success: project-settings loaded
+2018-07-11T01:22:56.645Z - success: ui-kit loaded
+2018-07-11T01:22:56.645Z - success: ui-grid loaded
+2018-07-11T01:22:56.645Z - success: scene loaded
+2018-07-11T01:22:56.645Z - success: sprite-editor loaded
+2018-07-11T01:22:56.661Z - success: store loaded
+2018-07-11T01:22:56.661Z - success: timeline loaded
+2018-07-11T01:22:56.661Z - normal: Loading builtin packages
+2018-07-11T01:22:56.676Z - success: asset-db-debugger loaded
+2018-07-11T01:22:56.676Z - success: code-editor loaded
+2018-07-11T01:22:56.692Z - success: color-picker loaded
+2018-07-11T01:22:56.692Z - success: package-manager loaded
+2018-07-11T01:22:56.708Z - success: qqplay-adapter loaded
+2018-07-11T01:22:56.708Z - success: sdkbox loaded
+2018-07-11T01:22:56.723Z - success: tester loaded
+2018-07-11T01:22:56.739Z - success: ui-kit-preview-extra loaded
+2018-07-11T01:22:56.739Z - success: ui-kit-preview loaded
+2018-07-11T01:22:56.754Z - success: ui-tree loaded
+2018-07-11T01:22:56.754Z - success: weapp-adapter loaded
+2018-07-11T01:22:57.839Z - normal: Initializing project C:\Users\Mashiro\Desktop\CocosCreatorProject\start_project
+2018-07-11T01:22:57.849Z - normal: Loading packages
+2018-07-11T01:22:57.854Z - normal: Watching packages
+2018-07-11T01:22:58.149Z - normal: Run Application
+2018-07-11T01:22:58.921Z - success: preview server running at http://localhost:7456
+2018-07-11T01:23:03.379Z - error: Failed to remove menu in path: 开发者/UI Preview/ui-grid (could not be found)
+    at Menu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:6080)
+    at Object.MainMenu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-07-11T01:23:03.380Z - error: Failed to remove menu in path: 开发者/UI Preview/ui-grid-webview (could not be found)
+    at Menu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:6080)
+    at Object.MainMenu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-07-11T01:23:03.380Z - success: ui-grid unloaded
+2018-07-11T01:23:03.381Z - error: Failed to remove menu in path: 开发者/UI Preview/ui-tree (could not be found)
+    at Menu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:6080)
+    at Object.MainMenu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-07-11T01:23:03.382Z - success: ui-tree unloaded
+2018-07-11T01:23:03.383Z - error: Failed to remove menu in path: 开发者/UI Preview/ui-tree (could not be found)
+    at Menu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:6080)
+    at Object.MainMenu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-07-11T01:23:03.384Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-07-11T01:23:03.384Z - success: ui-tree unloaded
+2018-07-11T01:23:03.385Z - error: Failed to remove menu in path: 开发者/UI Preview/ui-grid (could not be found)
+    at Menu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:6080)
+    at Object.MainMenu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-07-11T01:23:03.385Z - error: Failed to remove menu in path: 开发者/UI Preview/ui-grid-webview (could not be found)
+    at Menu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:6080)
+    at Object.MainMenu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-07-11T01:23:03.386Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-07-11T01:23:03.386Z - success: ui-grid unloaded
+2018-07-11T01:23:03.397Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
+2018-07-11T01:23:03.402Z - failed: Failed to load panel "panel.preview" from "ui-grid", the panelID ui-grid.preview already exists
+2018-07-11T01:23:03.402Z - failed: Failed to load panel "panel.preview-webview" from "ui-grid", the panelID ui-grid.preview-webview already exists
+2018-07-11T01:23:03.403Z - success: ui-grid loaded
+2018-07-11T01:23:03.403Z - success: ui-tree loaded
+2018-07-11T01:23:03.404Z - success: ui-tree loaded
+2018-07-11T01:23:03.404Z - success: ui-grid loaded
+2018-07-11T01:23:03.736Z - error: Failed to remove menu in path: 开发者/UI Preview/ui-grid (could not be found)
+    at Menu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:6080)
+    at Object.MainMenu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-07-11T01:23:03.737Z - error: Failed to remove menu in path: 开发者/UI Preview/ui-grid-webview (could not be found)
+    at Menu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:6080)
+    at Object.MainMenu.remove (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (C:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-07-11T01:23:03.737Z - success: ui-grid unloaded
+2018-07-11T01:23:03.743Z - success: ui-grid loaded
+2018-07-11T01:23:04.455Z - normal: 1.9.2
