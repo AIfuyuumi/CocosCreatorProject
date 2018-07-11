@@ -99,5 +99,5 @@ cc.Class({
         // 更新 scoreDisplay Label 的文字
         this.scoreDisplay.string = 'Score: ' + this.score.toString();
     },
-    
+
 });

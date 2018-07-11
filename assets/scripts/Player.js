@@ -153,4 +153,4 @@ cc.Class({
             this.xGravitation = event.acc.x * 100
         }, this);
     }
-});                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+});
